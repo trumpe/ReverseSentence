@@ -1,0 +1,78 @@
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.exe
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Sentence.DataAccess.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Sentence.DataAccess.pdb
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.csprojAssemblyReference.cache
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.AssemblyInfoInputs.cache
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.AssemblyInfo.cs
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.RazorTargetAssemblyInfo.cache
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.csproj.CopyComplete
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\staticwebassets\ReverseSentences.StaticWebAssets.Manifest.cache
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\staticwebassets\ReverseSentences.StaticWebAssets.xml
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.csproj.CoreCompileInputs.cache
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.deps.json
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.runtimeconfig.json
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.runtimeconfig.dev.json
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.pdb
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.dll
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.pdb
+C:\Users\Trumpeski\source\repos\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.genruntimeconfig.cache
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.exe
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.deps.json
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.runtimeconfig.json
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.runtimeconfig.dev.json
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\ReverseSentences.pdb
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Sentence.DataAccess.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\bin\Debug\netcoreapp3.1\Sentence.DataAccess.pdb
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.csprojAssemblyReference.cache
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.csproj.CoreCompileInputs.cache
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.AssemblyInfoInputs.cache
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.AssemblyInfo.cs
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.RazorTargetAssemblyInfo.cache
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.csproj.CopyComplete
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\staticwebassets\ReverseSentences.StaticWebAssets.Manifest.cache
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\staticwebassets\ReverseSentences.StaticWebAssets.xml
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.dll
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.pdb
+C:\Users\Trumpeski\Desktop\New folder\Reverse Sentence\ReverseSentences\obj\Debug\netcoreapp3.1\ReverseSentences.genruntimeconfig.cache
